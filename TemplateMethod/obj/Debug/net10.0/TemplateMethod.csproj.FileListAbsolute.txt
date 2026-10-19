@@ -1,0 +1,13 @@
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\TemplateMethod\bin\Debug\net10.0\TemplateMethod.deps.json
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\TemplateMethod\bin\Debug\net10.0\TemplateMethod.dll
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\TemplateMethod\bin\Debug\net10.0\TemplateMethod.pdb
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\TemplateMethod\obj\Debug\net10.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\TemplateMethod\obj\Debug\net10.0\TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\TemplateMethod\obj\Debug\net10.0\TemplateMethod.AssemblyInfo.cs
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\TemplateMethod\obj\Debug\net10.0\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\TemplateMethod\obj\Debug\net10.0\TemplateMethod.sourcelink.json
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\TemplateMethod\obj\Debug\net10.0\TemplateMethod.dll
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\TemplateMethod\obj\Debug\net10.0\refint\TemplateMethod.dll
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\TemplateMethod\obj\Debug\net10.0\TemplateMethod.pdb
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\TemplateMethod\obj\Debug\net10.0\ref\TemplateMethod.dll
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\TemplateMethod\obj\Debug\net10.0\Template.BAE98568.Up2Date

@@ -3,6 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\laba1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7C6CAC73-5ECF-4037-BB1A-89F73EB8E6E8}|..\\TemplateMethod\\TemplateMethod.csproj|c:\\users\\motti\\source\\repos\\ais.2sem.1laba\\templatemethod\\arrayprocessorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6CAC73-5ECF-4037-BB1A-89F73EB8E6E8}|..\\TemplateMethod\\TemplateMethod.csproj|c:\\users\\motti\\source\\repos\\ais.2sem.1laba\\templatemethod\\arrayprocessora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6CAC73-5ECF-4037-BB1A-89F73EB8E6E8}|..\\TemplateMethod\\TemplateMethod.csproj|c:\\users\\motti\\source\\repos\\ais.2sem.1laba\\templatemethod\\arrayprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504836FB-9EE4-AD1A-67DA-69B49CA78530}|laba1.csproj|c:\\users\\motti\\source\\repos\\ais.2sem.1laba\\laba1\\laba1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{504836FB-9EE4-AD1A-67DA-69B49CA78530}|laba1.csproj|solutionrelative:laba1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504836FB-9EE4-AD1A-67DA-69B49CA78530}|laba1.csproj|c:\\users\\motti\\source\\repos\\ais.2sem.1laba\\laba1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504836FB-9EE4-AD1A-67DA-69B49CA78530}|laba1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1390FC13-2367-4B69-98F9-D671C05DB5B7}|..\\lab1Library\\Strategy.csproj|c:\\users\\motti\\source\\repos\\ais.2sem.1laba\\lab1library\\eulercauchymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -18,10 +35,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{504836FB-9EE4-AD1A-67DA-69B49CA78530}|laba1.csproj|c:\\users\\motti\\source\\repos\\ais.2sem.1laba\\laba1\\excelreportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{504836FB-9EE4-AD1A-67DA-69B49CA78530}|laba1.csproj|solutionrelative:excelreportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{504836FB-9EE4-AD1A-67DA-69B49CA78530}|laba1.csproj|c:\\users\\motti\\source\\repos\\ais.2sem.1laba\\laba1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{504836FB-9EE4-AD1A-67DA-69B49CA78530}|laba1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,6 +65,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ArrayProcessorB.cs",
+              "DocumentMoniker": "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\TemplateMethod\\ArrayProcessorB.cs",
+              "RelativeDocumentMoniker": "..\\TemplateMethod\\ArrayProcessorB.cs",
+              "ToolTip": "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\TemplateMethod\\ArrayProcessorB.cs",
+              "RelativeToolTip": "..\\TemplateMethod\\ArrayProcessorB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T06:56:27.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayProcessorA.cs",
+              "DocumentMoniker": "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\TemplateMethod\\ArrayProcessorA.cs",
+              "RelativeDocumentMoniker": "..\\TemplateMethod\\ArrayProcessorA.cs",
+              "ToolTip": "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\TemplateMethod\\ArrayProcessorA.cs",
+              "RelativeToolTip": "..\\TemplateMethod\\ArrayProcessorA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T06:56:07.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\TemplateMethod\\ArrayProcessor.cs",
+              "RelativeDocumentMoniker": "..\\TemplateMethod\\ArrayProcessor.cs",
+              "ToolTip": "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\TemplateMethod\\ArrayProcessor.cs",
+              "RelativeToolTip": "..\\TemplateMethod\\ArrayProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T06:55:31.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "laba1",
+              "DocumentMoniker": "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\laba1\\laba1.csproj",
+              "RelativeDocumentMoniker": "laba1.csproj",
+              "ToolTip": "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\laba1\\laba1.csproj",
+              "RelativeToolTip": "laba1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-19T06:49:45.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EulerCauchyMethod.cs",
               "DocumentMoniker": "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\lab1Library\\EulerCauchyMethod.cs",
               "RelativeDocumentMoniker": "..\\lab1Library\\EulerCauchyMethod.cs",
@@ -64,20 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RungeKutta2Method.cs",
-              "DocumentMoniker": "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\lab1Library\\RungeKutta2Method.cs",
-              "RelativeDocumentMoniker": "..\\lab1Library\\RungeKutta2Method.cs",
-              "ToolTip": "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\lab1Library\\RungeKutta2Method.cs",
-              "RelativeToolTip": "..\\lab1Library\\RungeKutta2Method.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T06:23:50.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "ExcelReportGenerator.cs",
               "DocumentMoniker": "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\laba1\\ExcelReportGenerator.cs",
               "RelativeDocumentMoniker": "ExcelReportGenerator.cs",
@@ -89,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ExcelFormulaTranslator.cs",
               "DocumentMoniker": "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\laba1\\ExcelFormulaTranslator.cs",
               "RelativeDocumentMoniker": "ExcelFormulaTranslator.cs",
@@ -101,19 +153,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\laba1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\laba1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAIQAAAAAAAAAAADwv5gAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T08:48:51.992Z"
+              "WhenOpened": "2026-09-07T08:48:51.992Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "RungeKutta2Method.cs",
+              "DocumentMoniker": "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\lab1Library\\RungeKutta2Method.cs",
+              "RelativeDocumentMoniker": "..\\lab1Library\\RungeKutta2Method.cs",
+              "ToolTip": "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\lab1Library\\RungeKutta2Method.cs",
+              "RelativeToolTip": "..\\lab1Library\\RungeKutta2Method.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T06:23:50.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "RungeKutta4Method.cs",
               "DocumentMoniker": "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\lab1Library\\RungeKutta4Method.cs",
               "RelativeDocumentMoniker": "..\\lab1Library\\RungeKutta4Method.cs",
@@ -121,8 +186,7 @@
               "RelativeToolTip": "..\\lab1Library\\RungeKutta4Method.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T08:38:50.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T08:38:50.516Z"
             }
           ]
         },

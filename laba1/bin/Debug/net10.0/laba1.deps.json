@@ -10,7 +10,8 @@
         "dependencies": {
           "ClosedXML": "0.105.1",
           "NCalc": "7.2.0",
-          "Strategy": "1.0.0"
+          "Strategy": "1.0.0",
+          "TemplateMethod": "1.0.0"
         },
         "runtime": {
           "laba1.dll": {}
@@ -183,6 +184,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "TemplateMethod/1.0.0": {
+        "runtime": {
+          "TemplateMethod.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -305,6 +314,11 @@
       "hashPath": "system.io.packaging.8.0.1.nupkg.sha512"
     },
     "Strategy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TemplateMethod/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

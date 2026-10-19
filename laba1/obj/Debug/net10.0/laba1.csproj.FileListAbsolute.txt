@@ -33,3 +33,5 @@ C:\Users\motti\source\repos\AIS.2SEM.1LABA\laba1\bin\Debug\net10.0\ExcelNumberFo
 C:\Users\motti\source\repos\AIS.2SEM.1LABA\laba1\bin\Debug\net10.0\RBush.dll
 C:\Users\motti\source\repos\AIS.2SEM.1LABA\laba1\bin\Debug\net10.0\SixLabors.Fonts.dll
 C:\Users\motti\source\repos\AIS.2SEM.1LABA\laba1\bin\Debug\net10.0\System.IO.Packaging.dll
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\laba1\bin\Debug\net10.0\TemplateMethod.dll
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\laba1\bin\Debug\net10.0\TemplateMethod.pdb

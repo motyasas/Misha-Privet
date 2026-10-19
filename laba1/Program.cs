@@ -1,6 +1,7 @@
 using System;
 using System.Globalization;
 using NCalc;
+using laba1.TemplateMethodPattern;
 
 class Program
 {
@@ -14,6 +15,20 @@ class Program
             if (double.TryParse(s, NumberStyles.Float, CultureInfo.InvariantCulture, out double value))
                 return value;
             Console.WriteLine("  Некорректное число, повторите ввод.");
+        }
+    }
+
+    // Читает целое число из диапазона [min, max]
+    static int ReadInt(string prompt, int min, int max)
+    {
+        while (true)
+        {
+            Console.Write(prompt);
+            string s = (Console.ReadLine() ?? "").Trim();
+            if (int.TryParse(s, NumberStyles.Integer, CultureInfo.InvariantCulture, out int value)
+                && value >= min && value <= max)
+                return value;
+            Console.WriteLine($"  Введите целое число от {min} до {max}.");
         }
     }
 
@@ -40,11 +55,38 @@ class Program
 
     static void Main()
     {
-        Console.Write("Введите функцию f(x,y) (например x - y): ");
-        string formula = Console.ReadLine()!.Trim();
+        Console.WriteLine("Лабораторная работа 1");
+        Console.WriteLine("  1 - Шаблон Стратегия (решение ОДУ)");
+        Console.WriteLine("  2 - Шаблон Шаблонный метод (алгоритм B)");
+        int part = ReadInt("Ваш выбор: ", 1, 2);
+
+        if (part == 1) RunStrategy();
+        else RunTemplateMethod();
+    }
+
+    // ───────────────────────── Шаблон Шаблонный метод ─────────────────────────
+    static void RunTemplateMethod()
+    {
+        int n = ReadInt("\nВведите размер массива n: ", 1, 1_000_000);
+
+        // Один и тот же seed -> оба класса обрабатывают одинаковый массив
+        int seed = Environment.TickCount;
+
+        ArrayProcessor a = new ArrayProcessorA();
+        ArrayProcessor b = new ArrayProcessorB();
+
+        a.TemplateMethod(n, seed);
+        b.TemplateMethod(n, seed);
+    }
+
+    // ───────────────────────── Шаблон Стратегия ─────────────────────────
+    static void RunStrategy()
+    {
+        Console.Write("\nВведите функцию f(x,y) (например x - y): ");
+        string formula = (Console.ReadLine() ?? "").Trim();
 
         Console.Write("Введите точное решение y(x) (например x - 1 + 2*Exp(-x)): ");
-        string exact = Console.ReadLine()!.Trim();
+        string exact = (Console.ReadLine() ?? "").Trim();
 
         if (!CheckExpression(formula, "функцию f(x,y)")) return;
         if (!CheckExpression(exact, "точное решение")) return;
@@ -58,8 +100,7 @@ class Program
         Console.WriteLine("  1 - Метод Эйлера-Коши");
         Console.WriteLine("  2 - Метод Рунге-Кутта 2-го порядка");
         Console.WriteLine("  3 - Метод Рунге-Кутта 4-го порядка");
-        Console.Write("Ваш выбор: ");
-        int choice = int.Parse(Console.ReadLine()!);
+        int choice = ReadInt("Ваш выбор: ", 1, 3);
 
         laba1.ODEContext ctx;
         laba1.MethodKind kind;
@@ -74,13 +115,10 @@ class Program
                 ctx = new laba1.ODEContext(new laba1.RungeKutta2Method(formula));
                 kind = laba1.MethodKind.RungeKutta2;
                 break;
-            case 3:
+            default:
                 ctx = new laba1.ODEContext(new laba1.RungeKutta4Method(formula));
                 kind = laba1.MethodKind.RungeKutta4;
                 break;
-            default:
-                Console.WriteLine("Неверный выбор.");
-                return;
         }
 
         var result = ctx.Request(x0, y0, xn, h);

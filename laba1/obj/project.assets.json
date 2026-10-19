@@ -247,6 +247,16 @@
         "runtime": {
           "bin/placeholder/Strategy.dll": {}
         }
+      },
+      "TemplateMethod/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/TemplateMethod.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TemplateMethod.dll": {}
+        }
       }
     }
   },
@@ -644,13 +654,19 @@
       "type": "project",
       "path": "../lab1Library/Strategy.csproj",
       "msbuildProject": "../lab1Library/Strategy.csproj"
+    },
+    "TemplateMethod/1.0.0": {
+      "type": "project",
+      "path": "../TemplateMethod/TemplateMethod.csproj",
+      "msbuildProject": "../TemplateMethod/TemplateMethod.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
       "ClosedXML >= 0.105.1",
       "NCalc >= 7.2.0",
-      "Strategy >= 1.0.0"
+      "Strategy >= 1.0.0",
+      "TemplateMethod >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -689,6 +705,9 @@
           "projectReferences": {
             "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\lab1Library\\Strategy.csproj": {
               "projectPath": "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\lab1Library\\Strategy.csproj"
+            },
+            "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\TemplateMethod\\TemplateMethod.csproj": {
+              "projectPath": "C:\\Users\\motti\\source\\repos\\AIS.2SEM.1LABA\\TemplateMethod\\TemplateMethod.csproj"
             }
           }
         }
