@@ -1,0 +1,14 @@
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\bin\Debug\net10.0\Strategy.deps.json
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\bin\Debug\net10.0\Strategy.dll
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\bin\Debug\net10.0\Strategy.pdb
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\obj\Debug\net10.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\obj\Debug\net10.0\Strategy.AssemblyInfoInputs.cache
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\obj\Debug\net10.0\Strategy.AssemblyInfo.cs
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\obj\Debug\net10.0\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\obj\Debug\net10.0\Strategy.sourcelink.json
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\obj\Debug\net10.0\Strategy.dll
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\obj\Debug\net10.0\refint\Strategy.dll
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\obj\Debug\net10.0\Strategy.pdb
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\obj\Debug\net10.0\ref\Strategy.dll
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\obj\Debug\net10.0\Strategy.csproj.Up2Date
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\obj\Debug\net10.0\Strategy.csproj.AssemblyReference.cache

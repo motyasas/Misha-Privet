@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../lab1Library/Strategy.csproj" Id="1390fc13-2367-4b69-98f9-d671c05db5b7" />
+  <Project Path="../TemplateMethod/TemplateMethod.csproj" Id="7c6cac73-5ecf-4037-bb1a-89f73eb8e6e8" />
+  <Project Path="laba1.csproj" />
+</Solution>

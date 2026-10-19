@@ -1,0 +1,162 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Strategy/1.0.0": {
+        "dependencies": {
+          "NCalc": "7.2.0"
+        },
+        "runtime": {
+          "Strategy.dll": {}
+        }
+      },
+      "ExtendedNumerics.BigDecimal/3003.2.0.161": {
+        "runtime": {
+          "lib/net8.0/ExtendedNumerics.BigDecimal.dll": {
+            "assemblyVersion": "3003.2.0.161",
+            "fileVersion": "3003.2.0.161"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/10.0.12": {
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/10.0.12": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.12"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          }
+        }
+      },
+      "NCalc/7.2.0": {
+        "dependencies": {
+          "NCalc.Core": "7.2.0"
+        },
+        "runtime": {
+          "lib/net10.0/NCalc.dll": {
+            "assemblyVersion": "7.2.0.0",
+            "fileVersion": "7.2.0.20"
+          }
+        }
+      },
+      "NCalc.Core/7.2.0": {
+        "dependencies": {
+          "ExtendedNumerics.BigDecimal": "3003.2.0.161",
+          "Microsoft.Extensions.Logging.Abstractions": "10.0.12",
+          "NCalc.Parser": "7.2.0",
+          "Parlot": "1.5.9"
+        },
+        "runtime": {
+          "lib/net10.0/NCalc.Core.dll": {
+            "assemblyVersion": "7.2.0.0",
+            "fileVersion": "7.2.0.20"
+          }
+        }
+      },
+      "NCalc.Domain/7.2.0": {
+        "runtime": {
+          "lib/net10.0/NCalc.Domain.dll": {
+            "assemblyVersion": "7.2.0.0",
+            "fileVersion": "7.2.0.20"
+          }
+        }
+      },
+      "NCalc.Parser/7.2.0": {
+        "dependencies": {
+          "NCalc.Domain": "7.2.0",
+          "Parlot": "1.5.9"
+        },
+        "runtime": {
+          "lib/net10.0/NCalc.Parser.dll": {
+            "assemblyVersion": "7.2.0.0",
+            "fileVersion": "7.2.0.20"
+          }
+        }
+      },
+      "Parlot/1.5.9": {
+        "runtime": {
+          "lib/net10.0/Parlot.dll": {
+            "assemblyVersion": "1.5.9.0",
+            "fileVersion": "1.5.9.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Strategy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExtendedNumerics.BigDecimal/3003.2.0.161": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VMTiP6rMaghsAILVw+2W7FzReJH0kuF+YU9/4u110IWtsCWe+5HvzJqWxyknd860zFEbA9N37+qk5IjRLdF5UQ==",
+      "path": "extendednumerics.bigdecimal/3003.2.0.161",
+      "hashPath": "extendednumerics.bigdecimal.3003.2.0.161.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/10.0.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9/qymSh7hVDMGTGwrLz8MRp5zRyXy9adGDOs4HwRdnLil3oZGYuWeZjbmHgCQ9BL1qBroVfgUK3U/nb61617Cw==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/10.0.12",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.10.0.12.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/10.0.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+24lC4plfbEDNfLAdTV/SWKS7dW+16X4HdydO3R++134kSNTzcbYA4KpR1Hdh6uWisB8Za3AzwyOn+K+NxWIug==",
+      "path": "microsoft.extensions.logging.abstractions/10.0.12",
+      "hashPath": "microsoft.extensions.logging.abstractions.10.0.12.nupkg.sha512"
+    },
+    "NCalc/7.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E9tpPzXZtg0Kr445fWcgdZjgK8NrUAh32iKFI0e7ZKnZu6zg95WS5sS0N24gDwRxeL7JQ7rPYxCBeNnbPBjfig==",
+      "path": "ncalc/7.2.0",
+      "hashPath": "ncalc.7.2.0.nupkg.sha512"
+    },
+    "NCalc.Core/7.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-svJEf/HlfVhD2igJFLxVS06f+CWUKUrBlWtTw+H+Gq0uEBfHU7VyWF8y3NNkstVjChduDkAS89qAaKH0HkfNZA==",
+      "path": "ncalc.core/7.2.0",
+      "hashPath": "ncalc.core.7.2.0.nupkg.sha512"
+    },
+    "NCalc.Domain/7.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C49UItswWCoTAZgRKST2T3zjX9zxGPaBp7RwIYfsdcrPPxQWp6zOGyA1N4h7h2MIyonV6FPUQI+Q6B9FJBOhrw==",
+      "path": "ncalc.domain/7.2.0",
+      "hashPath": "ncalc.domain.7.2.0.nupkg.sha512"
+    },
+    "NCalc.Parser/7.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4/kaIIj0xf+Dab2DRZ66wD9Wg6scf226rY31AnTY96lOE15rJOKNFUpWj6ZfAGtO9mQn/POXLBbTx7fGOSQNQA==",
+      "path": "ncalc.parser/7.2.0",
+      "hashPath": "ncalc.parser.7.2.0.nupkg.sha512"
+    },
+    "Parlot/1.5.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Vro4ZKVZLBoPdCftyMUlzhlRpegI3N6TlT0zpyn79a42mH214VDqzkAdV70vu578W6NKS84hBA9H6j81cz0dLg==",
+      "path": "parlot/1.5.9",
+      "hashPath": "parlot.1.5.9.nupkg.sha512"
+    }
+  }
+}

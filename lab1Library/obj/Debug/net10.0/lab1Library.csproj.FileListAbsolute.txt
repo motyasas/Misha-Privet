@@ -1,0 +1,13 @@
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\bin\Debug\net10.0\lab1Library.deps.json
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\bin\Debug\net10.0\lab1Library.dll
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\bin\Debug\net10.0\lab1Library.pdb
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\obj\Debug\net10.0\lab1Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\obj\Debug\net10.0\lab1Library.AssemblyInfoInputs.cache
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\obj\Debug\net10.0\lab1Library.AssemblyInfo.cs
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\obj\Debug\net10.0\lab1Library.csproj.CoreCompileInputs.cache
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\obj\Debug\net10.0\lab1Library.sourcelink.json
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\obj\Debug\net10.0\lab1Library.dll
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\obj\Debug\net10.0\refint\lab1Library.dll
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\obj\Debug\net10.0\lab1Library.pdb
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\obj\Debug\net10.0\ref\lab1Library.dll
+C:\Users\motti\source\repos\AIS.2SEM.1LABA\lab1Library\obj\Debug\net10.0\lab1Libr.1E2DBEF3.Up2Date
